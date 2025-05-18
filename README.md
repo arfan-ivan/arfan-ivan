@@ -2,6 +2,8 @@
 ![github-header-image (1)](https://github.com/user-attachments/assets/ae604a2b-4ba9-4640-8643-c2f9f7890226)
 
 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
 <!--
 **arfan-ivan/arfan-ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
